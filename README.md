@@ -15,4 +15,4 @@ Etudiante en design, j'aime les cacahuetes
 3. *Markdown* : écrire du texte mis en forme
 
 ## Ma page
-[Voir ma page en ligne](https://https://www.instagram.com/dolche_lua/)
+[Voir ma page en ligne](https://www.instagram.com/)
