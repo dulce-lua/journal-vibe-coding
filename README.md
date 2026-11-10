@@ -13,3 +13,6 @@ Etudiante en design, j'aime les cacahuetes
 1. **Git** : garder l'historique de mon projet
 2. **GitHub** : le partager en ligne 
 3. *Markdown* : écrire du texte mis en forme
+
+## Ma page
+[Voir ma page en ligne](https://VOTRE-PSEUDO.github.io/vibe-coding-starter/)
